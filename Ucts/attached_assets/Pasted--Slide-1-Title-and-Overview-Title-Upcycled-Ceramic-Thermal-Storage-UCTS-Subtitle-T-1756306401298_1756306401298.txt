@@ -1,0 +1,97 @@
+# Slide 1: Title and Overview
+- **Title**: Upcycled Ceramic Thermal Storage (UCTS)
+- **Subtitle**: Turning Waste into Affordable Energy Storage
+- **Content**:
+  - UCTS converts red mud and microsilica into ceramic for energy storage at $13.6/kWh—10x cheaper than lithium-ion batteries.
+  - Solves high energy storage costs and 177.3M tons of waste pollution annually.
+  - Seeking $500,000 for Phase 1 to develop materials and prototype.
+- **Visual**: Image of industrial waste transforming into clean energy (Unsplash: search "industrial waste" or "renewable energy").
+- **Design**: Bold title (28 pt), 3 bullets (18 pt), green/blue eco-theme.
+
+# Slide 2: Problem
+- **Title**: Dual Global Challenges
+- **Content**:
+  - Energy storage costs $150–$250/kWh, slowing renewable energy adoption.
+  - 177.3M tons of red mud and microsilica pollute yearly, with only 2–5% recycled.
+- **Visual**: Split image: lithium-ion batteries (Unsplash: "lithium battery") and waste pollution (Unsplash: "red mud pollution").
+- **Design**: 2 bullets, images side-by-side, red accents for urgency.
+
+# Slide 3: Solution
+- **Title**: UCTS: Cost-Effective and Sustainable
+- **Content**:
+  - Creates URC-1 ceramic from waste, offering high heat capacity and durability.
+  - Cost: $13.6/kWh, eco-friendly, scalable for grid and industrial use.
+- **Visual**: Diagram: Waste → URC-1 bricks → Energy storage (Canva: create with rectangles, hexagons, arrows).
+- **Design**: Diagram centered, 2 bullets below.
+
+# Slide 4: Market Opportunity
+- **Title**: Massive Growth Potential
+- **Content**:
+  - Energy storage: $295B (2025) to $465B (2030, CAGR 9.53%) [Source: Mordor Intelligence].
+  - Thermal storage: $8.5B (2025) to $14.2B (2030, CAGR 10.93%) [Source: ResearchAndMarkets].
+  - Waste management: $1.41T (2024) to $1.89T (2030, CAGR 5.3%) [Source: Grand View Research].
+  - Target: USA, China, India—high demand for renewables and waste solutions.
+- **Visual**: Bar chart of market sizes (Canva: $465B, $14.2B, $1.89T).
+- **Design**: Chart on right, 4 bullets on left.
+
+# Slide 5: Competitive Advantage
+- **Title**: Why UCTS Stands Out
+- **Content**:
+  | Technology              | Cost ($/kWh) | Eco-Friendliness | Scalability |
+  |-------------------------|--------------|------------------|-------------|
+  | Lithium-Ion Batteries   | 150–250      | Low              | Medium      |
+  | Sand Batteries          | 10–20        | High             | Low         |
+  | Standard Ceramics       | 50–100       | Medium           | High        |
+  | **UCTS**                | **13.6**     | **High**         | **High**    |
+  - Edge: Lowest cost, waste-based, scalable solution.
+- **Visual**: Bar chart (Canva: data [200, 15, 75, 13.6]).
+- **Design**: Chart full-screen, table optional.
+
+# Slide 6: Technology
+- **Title**: How UCTS Works
+- **Content**:
+  - URC-1: Red mud + microsilica + binders; heat-resistant to 1000°C.
+  - System: Hexagonal brick core, charged via low-cost resistive heaters.
+- **Visual**: 3D schematic (Canva: bricks, heaters, energy cycle) or photo (Unsplash: "refractory bricks").
+- **Design**: Diagram on left, 2 bullets on right.
+
+# Slide 7: Plan and Budget
+- **Title**: Phase 1 Roadmap
+- **Content**:
+  - Timeline: 12–18 months—material development, lab testing, prototype.
+  - Budget ($500,000):
+    - R&D/Equipment: $150,000 (furnaces, presses).
+    - Personnel: $200,000 (engineers, scientists).
+    - Testing/Services: $100,000 (analysis, certification).
+    - Marketing/Legal: $50,000 (patents, PR).
+  - Milestones: Prototype by Month 18, field tests by Month 24.
+- **Visual**: Gantt chart timeline (Canva: Months 1–18, task bars).
+- **Design**: Timeline bottom, budget pie chart top.
+
+# Slide 8: Financial Projections
+- **Title**: Path to Profitability
+- **Content**:
+  - Year 1: $1M revenue (pilot sales).
+  - Year 3: $15M (global scaling).
+  - Model: UCTS system sales, licensing, waste partnerships.
+  - Exit: Acquisition (Siemens, Tesla) or IPO in 5–7 years.
+- **Visual**: Line chart (Canva: $1M, $5M, $15M).
+- **Design**: Chart centered, 4 bullets around.
+
+# Slide 9: Team
+- **Title**: Our Driving Force
+- **Content**:
+  - Aleksandr Snigirev: Founder, materials science and energy expert, sole creator with global vision.
+  - Anton Zubenko: Analyst, drives financial modeling and market strategy.
+  - Collaboration: Open to partnerships with tech firms (Siemens), waste providers (Alcoa), and research institutes.
+- **Visual**: Photos/icons of team (your photo + placeholder for Anton) or UCTS logo (Canva: green/energy symbol).
+- **Design**: Profiles side-by-side, collaboration icons below.
+
+# Slide 10: Call to Action
+- **Title**: Join the UCTS Revolution
+- **Content**:
+  - Invest $500,000 in Phase 1 for equity stake.
+  - Transform energy and waste sectors together.
+  - Contact: legalgreenplanet@gmail.com | +4916094940930.
+- **Visual**: Eco-energy image (Unsplash: "solar panels landscape").
+- **Design**: Bold CTA text, contact details centered.
