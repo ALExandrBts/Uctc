@@ -26,14 +26,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build Frontend
         run: npm run build:client
 
-      - name: Check build output
+      - name: List build output (Debug)
         run: ls -R dist/public
 
       - name: Upload artifact
