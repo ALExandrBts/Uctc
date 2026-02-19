@@ -31,7 +31,7 @@ jobs:
         run: npm install
 
       - name: Build Frontend
-        run: npx vite build
+        run: npm run build:client
 
       - name: Check build output
         run: ls -R dist/public
