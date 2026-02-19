@@ -28,22 +28,10 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: |
-          npm install
-          npm list vite || echo "Vite not found"
+        run: npm install --legacy-peer-deps
 
       - name: Build Frontend
-        run: npm run build:client
-
-      - name: Verify build output
-        run: |
-          if [ -d "dist/public" ]; then
-            echo "Build output directory found."
-            ls -la dist/public
-          else
-            echo "Build output directory NOT found!"
-            exit 1
-          fi
+        run: npx vite build client
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
